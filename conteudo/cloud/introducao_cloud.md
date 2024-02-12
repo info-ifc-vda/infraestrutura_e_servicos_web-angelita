@@ -2,9 +2,7 @@
 
 Bem-vindos à primeira aula de Infraestrutura e Serviços Web. Nesta sessão, introduziremos os conceitos fundamentais da computação em nuvem, explorando sua definição, os principais benefícios e como ela se tornou uma peça central na estratégia de tecnologia da informação das empresas modernas.
 
-Antes de começar, assista um vídeo introdutório sobre o assunto:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J9LK6EtxzgM?si=pWNhUOSIzH19-iaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Antes de começar, assista um vídeo introdutório sobre o assunto: [Changes to computer thinking - Stephen Fry explains cloud computing](https://youtu.be/J9LK6EtxzgM?si=D7iBQLFS7kZ-KFRq)
 
 #### O que é Computação em Nuvem?
 
