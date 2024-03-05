@@ -9,6 +9,9 @@ Já a **Plataforma como Serviço (PaaS)** oferece um ambiente de desenvolvimento
 
 O **Software como Serviço (SaaS)** fornece aplicativos baseados na web que são hospedados e gerenciados por um provedor de serviços em nuvem e acessados via internet. Suas principais características são a acessibilidade via navegador web, atualizações automáticas, pagamento por assinatura e escalabilidade.
 
+#### Vídeo
+[https://youtu.be/N0SYCyS2xZA?si=rmYrbjlHNOPWmRSn](https://youtu.be/N0SYCyS2xZA?si=rmYrbjlHNOPWmRSn)
+
 ### Atividade
 Atividade de Pesquisa: Computação em Nuvem
 
